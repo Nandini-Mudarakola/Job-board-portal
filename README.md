@@ -37,7 +37,7 @@
    - Deploy the application to Vercel for easy and scalable hosting.
    - Set up continuous integration and deployment (CI/CD) pipelines for automated deployments.
 
-**7. Browser Compatibility:** 🌐
+**6. Browser Compatibility:** 🌐
    - Ensure cross-browser compatibility by testing on major browsers (Chrome, Firefox, Safari, Edge).
    - Use CSS prefixes or vendor-specific styles if necessary to maintain compatibility.
 
