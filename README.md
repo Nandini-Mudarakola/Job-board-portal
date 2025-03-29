@@ -29,20 +29,11 @@
    - **All Jobs & Job Details:** 🔍
      - Create pages for displaying all available jobs and detailed job descriptions.
 
-**4. Development Practices:** 🛠️
-   - Use Jira for project management, following agile methodologies for iterative development.
-   - Write comprehensive documentation for the codebase, APIs, and deployment processes.
-   - Implement unit tests and integration tests using frameworks like Jest and React Testing Library.
-   - Follow Git best practices:
-     - Utilize a branching strategy (e.g., Gitflow) for feature development, bug fixes, and releases.
-     - Commit changes regularly with meaningful messages.
-     - Collaborate with team members through pull requests and code reviews.
-
-**5. Error Handling:** ⚠️
+**4. Error Handling:** ⚠️
    - Implement robust error handling mechanisms for client-side and server-side errors.
    - Log errors for debugging and monitoring purposes to ensure application stability.
 
-**6. Deployment:** 🚀
+**5. Deployment:** 🚀
    - Deploy the application to Vercel for easy and scalable hosting.
    - Set up continuous integration and deployment (CI/CD) pipelines for automated deployments.
 
@@ -50,14 +41,5 @@
    - Ensure cross-browser compatibility by testing on major browsers (Chrome, Firefox, Safari, Edge).
    - Use CSS prefixes or vendor-specific styles if necessary to maintain compatibility.
 
-**8. Reusable Components:** 🔄
-   - Design reusable components for common UI elements (e.g., buttons, forms, cards) to streamline development.
-   - Abstract logic into custom hooks for reusability across the application, enhancing code maintainability.
-
-**9. Developer Experience:** 👩‍💻
-   - Maintain clean and well-structured code following coding standards and best practices.
-   - Provide clear comments and documentation within the codebase to facilitate understanding and future maintenance.
-   - Utilize ESLint and Prettier for code formatting and linting to ensure code consistency.
-   - Optimize developer workflow by configuring editor settings and development tools for efficient development.
 
 By adhering to these considerations and plans, the development of a scalable, performant, and developer-friendly job portal using Next.js, TypeScript, and Tailwind CSS can be achieved. Continuous improvement based on user feedback is essential for enhancing the application's usability and effectiveness. 🚀
