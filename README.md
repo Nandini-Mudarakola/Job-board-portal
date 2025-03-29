@@ -43,7 +43,7 @@
    - Log errors for debugging and monitoring purposes to ensure application stability.
 
 **6. Deployment:** 🚀
-   - Deploy the application to Netlify for easy and scalable hosting.
+   - Deploy the application to Vercel for easy and scalable hosting.
    - Set up continuous integration and deployment (CI/CD) pipelines for automated deployments.
 
 **7. Browser Compatibility:** 🌐
